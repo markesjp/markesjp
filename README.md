@@ -3,7 +3,7 @@
 Desenvolvedor Full Stack com Conhecimentos em Java, Python, C#, e Mais
 ---------------------------------------------------------------------
 
-Sou um desenvolvedor full stack com experiência em Java, Python, C#, SQL e várias tecnologias front-end desde 2018. Minha formação em Ciência da Computação me proporciona uma base sólida para enfrentar desafios de desenvolvimento, tanto em aplicações web quanto desktop. Além de habilidades técnicas, possuo fortes capacidades interpessoais, como comunicação clara, raciocínio lógico e proatividade, que me permitem colaborar eficazmente em equipes e resolver problemas de maneira criativa e eficiente. Estou sempre buscando oportunidades para aplicar e expandir minhas habilidades em projetos desafiadores e colaborativos.
+Sou um desenvolvedor full stack com experiência em Java, Python, C#, SQL, JavaScript, Spring Boot, Sistemas Distribuídos e React, além de várias outras tecnologias front-end e back-end desde 2018. Minha formação em Ciência da Computação me proporciona uma base sólida para enfrentar desafios de desenvolvimento, tanto em aplicações web quanto desktop. Tenho um forte domínio em bancos de dados relacionais e práticas de desenvolvimento ágeis, como controle de versão. Além das habilidades técnicas, destaco-me por minha comunicação clara, raciocínio lógico e proatividade, que me permitem colaborar eficazmente em equipes e resolver problemas de maneira criativa e eficiente. Estou sempre em busca de oportunidades para aplicar e expandir minhas habilidades em projetos desafiadores e colaborativos.
 
 * 🌍  I'm based in Uberlândia, MG - Brasil
 * ✉️  You can contact me at [oliveira.marquesde@gmail.com](mailto:oliveira.marquesde@gmail.com)
@@ -15,8 +15,8 @@ Sou um desenvolvedor full stack com experiência em Java, Python, C#, SQL e vár
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="36" height="36" alt="Spring Boot" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="Spring Boot" /></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
@@ -27,7 +27,7 @@ Sou um desenvolvedor full stack com experiência em Java, Python, C#, SQL e vár
 
 **Desenvolvedor Java (Projeto CFC Gestão)**  
 *Janeiro 2024 - Março 2024*  
-Desenvolvi uma aplicação de gerenciamento para Centros de Formação de Condutores (CFC) utilizando Java, Swing e MySQL. A aplicação incluiu funcionalidades de cadastro de alunos e instrutores, agendamento de aulas e exames, e geração de relatórios administrativos.
+Desenvolvi uma aplicação de gerenciamento para Centros de Formação de Condutores (CFC) utilizando Java, Swing, MySQL, e Spring Boot. A aplicação incluiu funcionalidades de cadastro de alunos e instrutores, agendamento de aulas e exames, e geração de relatórios administrativos. Além disso, implementei sistemas distribuídos para assegurar a escalabilidade e robustez do sistema.
 
 **Estagiário, AMS Serviços de Man. e Aut. Ind. Ltda ME**  
 *Julho 2018 - Fevereiro 2019*  
