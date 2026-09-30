@@ -1,51 +1,45 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is João Pedro
+# João Pedro Marques
 
-Desenvolvedor Full Stack com Conhecimentos em Java, Python, C#, e Mais
----------------------------------------------------------------------
+**Desenvolvedor full stack · IA aplicada · Visão computacional**
 
-Sou um desenvolvedor full stack com experiência em Java, Python, C#, SQL, JavaScript, Spring Boot, Sistemas Distribuídos e React, além de várias outras tecnologias front-end e back-end desde 2018. Meus estudos em Ciência da Computação me proporcionam uma base sólida para enfrentar desafios de desenvolvimento, tanto em aplicações web quanto desktop. Tenho um forte domínio em bancos de dados relacionais e práticas de desenvolvimento ágeis, como controle de versão. Além das habilidades técnicas, destaco-me por minha comunicação clara, raciocínio lógico e proatividade, que me permitem colaborar eficazmente em equipes e resolver problemas de maneira criativa e eficiente. Estou sempre em busca de oportunidades para aplicar e expandir minhas habilidades em projetos desafiadores e colaborativos.
+Trabalho na Algar com plataformas corporativas de conhecimento e monitoria de atendimento. Desenvolvo aplicações web e APIs, integro serviços de IA e acompanho sua operação em produção.
 
-* 🌍  I'm based in Uberlândia, MG - Brasil
-* ✉️  You can contact me at [oliveira.marquesde@gmail.com](mailto:oliveira.marquesde@gmail.com)
+Estudo Ciência da Computação na Universidade Federal de Uberlândia. Minha pesquisa envolve processamento de imagens e segmentação geométrica de núcleos em imagens microscópicas de *Drosophila melanogaster*.
 
-### Skills
+[Portfólio](https://markesjp.github.io) · [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-oliveira-marques-78a300253/) · [E-mail](mailto:oliveira.marquesde@gmail.com) · [WhatsApp](https://wa.me/5519991138922)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="Spring Boot" /></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-</p>
+## Projetos selecionados
 
-### Experiência
+| Projeto | O que desenvolvi | Tecnologias |
+| :--- | :--- | :--- |
+| [LinguaFlow AI](https://github.com/markesjp/language_ai_app) | Aplicação para prática de idiomas por texto e voz, com RAG documental e suporte a modelos locais e em nuvem. | Next.js, FastAPI, PostgreSQL, pgvector, Docker |
+| [Segmentação de núcleos](https://github.com/markesjp/projeto_tcc) | Pipeline de visão computacional com análise de contornos, detecção de concavidades e cortes geométricos. | Python, OpenCV, NumPy |
+| [Analisador léxico Lumen](https://github.com/markesjp/analisador_lexico) | Scanner manual com especificação léxica, autômatos e testes. | Java |
 
-**Desenvolvedor Java (Projeto CFC Gestão)**  
-*Janeiro 2024 - Março 2024*  
-Desenvolvi uma aplicação de gerenciamento para Centros de Formação de Condutores (CFC) utilizando Java, Swing, MySQL, e Spring Boot. A aplicação incluiu funcionalidades de cadastro de alunos e instrutores, agendamento de aulas e exames, e geração de relatórios administrativos. Além disso, implementei sistemas distribuídos para assegurar a escalabilidade e robustez do sistema.
+Outros trabalhos: [Sistema Financeiro](https://github.com/markesjp/Sistema-Financeiro) e [Bomberman WebSocket](https://github.com/markesjp/Bomberman-WebSocket).
 
-**Estagiário, AMS Serviços de Man. e Aut. Ind. Ltda ME**  
-*Julho 2018 - Fevereiro 2019*  
-Participei de projetos de instalação de maquinário industrial de grande porte, com foco na aplicação prática da fluência em espanhol e nas práticas de manutenção e automação industrial.
+## Experiência
 
-### Socials
+**Algar Tecnologia e Consultoria** · Uberlândia, MG
 
-<p align="left"> 
-    <a href="https://www.github.com/markesjp" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </a> 
-    <a href="https://www.linkedin.com/in/joão-pedro-de-oliveira-marques-78a300253" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </a>
-</p>
+Desenvolvedor Full Stack Júnior desde fevereiro de 2026. Anteriormente, estagiário em desenvolvimento de software de novembro de 2024 a janeiro de 2026.
 
-### Badges
+- **IAsmin Knowledge:** desenvolvimento e sustentação de APIs, busca semântica e arquitetura RAG para uma plataforma utilizada por aproximadamente 2.000 usuários.
+- **IAsmin Speech:** desenvolvimento de plataforma de monitoria e API com CrewAI para análise de atendimentos, em um produto com aproximadamente 6.000 usuários.
+- **Infraestrutura e acesso:** AWS, PostgreSQL e Keycloak, com atuação em integrações, manutenção e evolução dos serviços.
 
-<b>My GitHub Stats</b>
+## Ferramentas de trabalho
 
-<a href="http://www.github.com/markesjp"><img src="https://github-readme-stats.vercel.app/api?username=markesjp&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="markesjp's GitHub stats" /></a>
+**Aplicações:** TypeScript, NestJS, Next.js, React, Python, FastAPI e PostgreSQL.
+
+**IA e dados:** LangChain, CrewAI, pgvector, Azure OpenAI, Azure AI Search, OpenCV e NumPy.
+
+**Infraestrutura:** AWS, Docker, Redis, Nginx, Keycloak e Git.
+
+## Formação
+
+**Ciência da Computação — UFU** · 2022–2027, conclusão prevista em julho de 2027.
+
+**Técnico em Informática — IFNMG** · 2017–2019.
+
+Português nativo · Inglês intermediário · Espanhol intermediário.
