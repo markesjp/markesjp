@@ -1,45 +1,61 @@
-# João Pedro Marques
+![João Pedro Marques — Backend, Redes e IA aplicada](assets/profile-header.svg)
 
-**Desenvolvedor full stack · IA aplicada · Visão computacional**
+**Desenvolvimento backend, redes e IA aplicada**
 
-Trabalho na Algar com plataformas corporativas de conhecimento e monitoria de atendimento. Desenvolvo aplicações web e APIs, integro serviços de IA e acompanho sua operação em produção.
+Trabalho na Algar com APIs, busca em documentos e monitoria de atendimento. Nos projetos pessoais, exploro transporte de rede, visão computacional e ferramentas locais.
 
-Estudo Ciência da Computação na Universidade Federal de Uberlândia. Minha pesquisa envolve processamento de imagens e segmentação geométrica de núcleos em imagens microscópicas de *Drosophila melanogaster*.
+Estudo Ciência da Computação na UFU e desenvolvo pesquisa sobre segmentação de núcleos em imagens microscópicas de *Drosophila melanogaster*.
 
 [Portfólio](https://markesjp.github.io) · [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-oliveira-marques-78a300253/) · [E-mail](mailto:oliveira.marquesde@gmail.com) · [WhatsApp](https://wa.me/5519991138922)
 
 ## Projetos selecionados
 
-| Projeto | O que desenvolvi | Tecnologias |
-| :--- | :--- | :--- |
-| [LinguaFlow AI](https://github.com/markesjp/language_ai_app) | Aplicação para prática de idiomas por texto e voz, com RAG documental e suporte a modelos locais e em nuvem. | Next.js, FastAPI, PostgreSQL, pgvector, Docker |
-| [Segmentação de núcleos](https://github.com/markesjp/projeto_tcc) | Pipeline de visão computacional com análise de contornos, detecção de concavidades e cortes geométricos. | Python, OpenCV, NumPy |
-| [Analisador léxico Lumen](https://github.com/markesjp/analisador_lexico) | Scanner manual com especificação léxica, autômatos e testes. | Java |
+### [BugHost](https://markesjp.github.io/projetos/bughost.html)
 
-Outros trabalhos: [Sistema Financeiro](https://github.com/markesjp/Sistema-Financeiro) e [Bomberman WebSocket](https://github.com/markesjp/Bomberman-WebSocket).
+Projeto colaborativo de orquestração de túneis e cliente Android. Configurações assinadas e revisões monotônicas permitem rejeitar políticas expiradas ou antigas antes de iniciar o transporte.
+
+Python, Kotlin, JNI e C++. A validação Android ponta a ponta está pendente; o estudo de caso registra o estado e as decisões.
+
+### [Segmentação de núcleos](https://github.com/markesjp/projeto_tcc)
+
+Pipeline com análise de contornos, concavidades e cortes geométricos. A avaliação combina correspondência entre instâncias e sobreposição de máscaras para distinguir núcleos separados de uma única massa.
+
+Python, OpenCV e NumPy. Receitas reproduzíveis e comparação com backends opcionais Cellpose e híbridos.
+
+### [LinguaFlow](https://github.com/markesjp/language_ai_app)
+
+Prática de idiomas por texto e voz, com documentos como contexto. Interfaces separadas para conversação, embeddings e reranking permitem trocar provedores locais e em nuvem.
+
+Next.js, FastAPI, PostgreSQL e pgvector. Busca vetorial com fallback por similaridade de cosseno.
+
+### [NoirFlow](https://markesjp.github.io/projetos/noirflow.html)
+
+Estúdio local que coordena roteiro, narração, storyboard e renderização de vídeos. A fila aplica limites separados de CPU, GPU, rede e renderização, com pausa e preservação das etapas concluídas.
+
+TypeScript, React, Fastify, SQLite, Whisper, Remotion e FFmpeg. Código não disponível publicamente; decisões no estudo de caso.
+
+### [Gerenciador de Disco](https://markesjp.github.io/#disk-usage)
+
+Projeto local para analisar armazenamento e revisar duplicatas. O scanner filtra por tamanho, hash parcial e SHA-256; antes da remoção, revalida os arquivos e a cópia que será preservada.
+
+Python e PySide6. Varredura cancelável, limites de diretório e envio à lixeira.
 
 ## Experiência
 
-**Algar Tecnologia e Consultoria** · Uberlândia, MG
+**Algar Tecnologia e Consultoria** · Desenvolvedor Full Stack Júnior desde fevereiro de 2026; estágio de novembro de 2024 a janeiro de 2026.
 
-Desenvolvedor Full Stack Júnior desde fevereiro de 2026. Anteriormente, estagiário em desenvolvimento de software de novembro de 2024 a janeiro de 2026.
+Atuo nas plataformas IAsmin Knowledge e IAsmin Speech com APIs, busca semântica, RAG e análise de atendimentos, além de integrações com AWS, PostgreSQL e Keycloak.
 
-- **IAsmin Knowledge:** desenvolvimento e sustentação de APIs, busca semântica e arquitetura RAG para uma plataforma utilizada por aproximadamente 2.000 usuários.
-- **IAsmin Speech:** desenvolvimento de plataforma de monitoria e API com CrewAI para análise de atendimentos, em um produto com aproximadamente 6.000 usuários.
-- **Infraestrutura e acesso:** AWS, PostgreSQL e Keycloak, com atuação em integrações, manutenção e evolução dos serviços.
+## Ferramentas
 
-## Ferramentas de trabalho
+Python, TypeScript, FastAPI, NestJS, Next.js e PostgreSQL. IA e dados: pgvector, LangChain, CrewAI, OpenCV e NumPy. Infraestrutura: Docker, AWS, Redis, Nginx, Keycloak e Git. Monitoramento: Prometheus.
 
-**Aplicações:** TypeScript, NestJS, Next.js, React, Python, FastAPI e PostgreSQL.
+## Antes da conversa, divirta-se um pouco
 
-**IA e dados:** LangChain, CrewAI, pgvector, Azure OpenAI, Azure AI Search, OpenCV e NumPy.
-
-**Infraestrutura:** AWS, Docker, Redis, Nginx, Keycloak e Git.
+[Runner](https://markesjp.github.io/?jogo=runner#arcade) · [Invaders](https://markesjp.github.io/?jogo=invaders#arcade) · [Puzzle](https://markesjp.github.io/?jogo=puzzle#arcade) — jogos no portfólio.
 
 ## Formação
 
-**Ciência da Computação — UFU** · 2022–2027, conclusão prevista em julho de 2027.
-
-**Técnico em Informática — IFNMG** · 2017–2019.
+Ciência da Computação — UFU, conclusão prevista em julho de 2027. Técnico em Informática — IFNMG, 2017–2019.
 
 Português nativo · Inglês intermediário · Espanhol intermediário.
